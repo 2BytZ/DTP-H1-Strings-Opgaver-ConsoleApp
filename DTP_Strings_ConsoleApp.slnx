@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="DTP_Strings_Add_seperator_ConsoleApp/DTP_Strings_Add_seperator_ConsoleApp.csproj" />
   <Project Path="DTP_Strings_Is_palindrome_ConsoleApp/DTP_Strings_Is_palindrome_ConsoleApp.csproj" />
+  <Project Path="DTP_Strings_Length_of_string_ConsoleApp/DTP_Strings_Length_of_string_ConsoleApp.csproj" />
+  <Project Path="DTP_Strings_reverse_string_ConsoleApp/DTP_Strings_reverse_string_ConsoleApp.csproj" />
 </Solution>

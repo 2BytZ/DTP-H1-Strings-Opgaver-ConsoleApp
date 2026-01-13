@@ -1,13 +1,13 @@
-﻿namespace DTP_Strings_Is_palindrome_ConsoleApp
+﻿namespace DTP_Strings_reverse_string_ConsoleApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string str = "racecar";
-            Console.WriteLine(Method(str));
+            string str = "oe93 kr";
+            Console.WriteLine(BippityBoppity_ReverseThatString_Property(str));
         }
-        static bool Method(string str)
+        static string BippityBoppity_ReverseThatString_Property(string str)
         {
             string forwards = str;
             string backwards = "";
@@ -15,10 +15,8 @@
             {
                 backwards += forwards[i];
             }
-            if (String.Compare(forwards, backwards) == 0)
-                return true;
-            else
-                return false;
+            return backwards;
+            // couldn't get .Reverse to work :/
         }
     }
 }
