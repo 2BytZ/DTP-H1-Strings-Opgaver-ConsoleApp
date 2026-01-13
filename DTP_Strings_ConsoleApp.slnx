@@ -1,9 +1,11 @@
 <Solution>
   <Project Path="DTP_Strings_Add_seperator_ConsoleApp/DTP_Strings_Add_seperator_ConsoleApp.csproj" />
+  <Project Path="DTP_Strings_Compress_String_ConsoleApp/DTP_Strings_Compress_String_ConsoleApp.csproj" Id="2c5c999e-0581-48bc-8582-772d47e29996" />
   <Project Path="DTP_Strings_Is_palindrome_ConsoleApp/DTP_Strings_Is_palindrome_ConsoleApp.csproj" />
   <Project Path="DTP_Strings_Length_of_string_ConsoleApp/DTP_Strings_Length_of_string_ConsoleApp.csproj" />
   <Project Path="DTP_Strings_NumberOfWords_ConsoleApp/DTP_Strings_NumberOfWords_ConsoleApp.csproj" Id="daa1faf0-2429-4aaa-aa6e-13654c435485" />
   <Project Path="DTP_Strings_reverse_string_ConsoleApp/DTP_Strings_reverse_string_ConsoleApp.csproj" />
   <Project Path="DTP_Strings_RevertWordsOrder_ConsoleApp/DTP_Strings_RevertWordsOrder_ConsoleApp.csproj" Id="599eecfe-dceb-4b02-95f7-71e20e7ea906" />
   <Project Path="DTP_Strings_SortCharsDescending_ConsoleApp/DTP_Strings_HowManyOccurances_ConsoleApp.csproj" Id="fe82cfa6-be8d-4806-bedc-a73773b63d21" />
+  <Project Path="DTP_Strings_SortCharsDescending_ConsoleApp/DTP_Strings_SortCharsDescending_ConsoleApp.csproj" Id="5f3b9ebe-ff17-4b12-9118-58362cb33bfb" />
 </Solution>
