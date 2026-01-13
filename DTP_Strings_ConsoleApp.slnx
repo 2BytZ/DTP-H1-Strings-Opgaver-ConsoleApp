@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="DTP_Strings_Add_seperator_ConsoleApp/DTP_Strings_Add_seperator_ConsoleApp.csproj" />
+  <Project Path="DTP_Strings_Is_palindrome_ConsoleApp/DTP_Strings_Is_palindrome_ConsoleApp.csproj" />
 </Solution>
