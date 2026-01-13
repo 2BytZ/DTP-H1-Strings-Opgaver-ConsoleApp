@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            string str = "kkkktttrrrrrrrrrr";
+            string str = "p555ppp7www";
             if (String.IsNullOrEmpty(str))
             {
                 Console.WriteLine("String Empty");
