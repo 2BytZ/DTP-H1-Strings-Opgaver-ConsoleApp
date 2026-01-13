@@ -5,4 +5,5 @@
   <Project Path="DTP_Strings_NumberOfWords_ConsoleApp/DTP_Strings_NumberOfWords_ConsoleApp.csproj" Id="daa1faf0-2429-4aaa-aa6e-13654c435485" />
   <Project Path="DTP_Strings_reverse_string_ConsoleApp/DTP_Strings_reverse_string_ConsoleApp.csproj" />
   <Project Path="DTP_Strings_RevertWordsOrder_ConsoleApp/DTP_Strings_RevertWordsOrder_ConsoleApp.csproj" Id="599eecfe-dceb-4b02-95f7-71e20e7ea906" />
+  <Project Path="DTP_Strings_SortCharsDescending_ConsoleApp/DTP_Strings_HowManyOccurances_ConsoleApp.csproj" Id="fe82cfa6-be8d-4806-bedc-a73773b63d21" />
 </Solution>
