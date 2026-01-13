@@ -2,5 +2,7 @@
   <Project Path="DTP_Strings_Add_seperator_ConsoleApp/DTP_Strings_Add_seperator_ConsoleApp.csproj" />
   <Project Path="DTP_Strings_Is_palindrome_ConsoleApp/DTP_Strings_Is_palindrome_ConsoleApp.csproj" />
   <Project Path="DTP_Strings_Length_of_string_ConsoleApp/DTP_Strings_Length_of_string_ConsoleApp.csproj" />
+  <Project Path="DTP_Strings_NumberOfWords_ConsoleApp/DTP_Strings_NumberOfWords_ConsoleApp.csproj" Id="daa1faf0-2429-4aaa-aa6e-13654c435485" />
   <Project Path="DTP_Strings_reverse_string_ConsoleApp/DTP_Strings_reverse_string_ConsoleApp.csproj" />
+  <Project Path="DTP_Strings_RevertWordsOrder_ConsoleApp/DTP_Strings_RevertWordsOrder_ConsoleApp.csproj" Id="599eecfe-dceb-4b02-95f7-71e20e7ea906" />
 </Solution>
